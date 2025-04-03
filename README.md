@@ -36,9 +36,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jquery,mongodb,express,react,redux,nodejs,nextjs,git" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,tailwind,mongodb,mysql,postgres,express,react,redux,nodejs,nextjs,git,docker,vscode,idea,cloudflare,figma,netlify,postman,stackoverflow,vite" />
 </div>
 
 ---

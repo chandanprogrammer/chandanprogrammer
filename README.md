@@ -5,13 +5,13 @@
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/chandanprogrammer">
-       <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Badge" />
-    </a>
+       <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Badge" width="30"/>
+    </a> &nbsp; &nbsp;
     <a href="https://twitter.com/Chandan_2022">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge"/>
-    </a>
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge" width="30"/>
+    </a> &nbsp; &nbsp;
     <a href="mailto:chandankumar070503@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge"/>
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" width="30"/>
     </a>
   </div>
   

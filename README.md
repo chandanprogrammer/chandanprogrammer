@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-- 👨‍💻 Check out all of my [Projects](https://mukulpadwal.me/projects)
+- 👨‍💻 Check out all of my [Projects]()
 
 - 📝 I regularly write articles on [Hashnode](https://chandanprogrammer.hashnode.dev/)
 

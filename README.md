@@ -17,6 +17,7 @@
   
   <h3>A passionate <strong>Full Stack Web Developer</strong> with strong technical skills, an eye for design, and a commitment to delivering innovative, user‑friendly software solutions.</h3>
 </div>
+<br><br>
 
 <!-- This is the gif section -->
 <div align="center">
@@ -34,7 +35,7 @@
 
 - 📫 How to reach me **chandankumar070503@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z4R4rMgRS-9kjlK8pOEV6V9m4Xhljzds/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16msrRZ0ReCa0iWhe8j34xxe8tZ9sEHkb/view)
 
 ---
 

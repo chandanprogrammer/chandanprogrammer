@@ -1,34 +1,46 @@
 <!-- This is the header section -->
 <div id="header" align="center">
+  
   <h1>Hi 👋, I'm Chandan Kumar</h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/chandanprogrammer">
-       <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Badge" width="30"/>
-    </a> &nbsp; &nbsp;
-    <a href="https://twitter.com/Chandan_2022">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge" width="30"/>
-    </a> &nbsp; &nbsp;
-    <a href="mailto:chandankumar070503@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" width="30"/>
-    </a>
-  </div>
+   <table>
+     <tr>
+       <td>Linkedin</td>
+       <td>Twitter</td>
+       <td>Gmail</td>
+       <td>Website</td>
+       <td>Instagram</td>
+     </tr>
+     <tr  align="center">
+        <td>
+          <a href="https://www.linkedin.com/in/chandanprogrammer"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Badge" width="30"/></a>
+        </td>
+       <td>
+          <a href="https://twitter.com/Chandan_2022"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Badge" width="30"/></a>
+        </td>
+       <td>
+           <a href="mailto:chandankumar070503@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" width="30"/></a>
+        </td>
+       <td>
+          <a href="/"><img src="https://skillicons.dev/icons?i=yew" alt="yew Badge" width="30"/></a>
+        </td>
+       <td>
+          <a href="https://www.instagram.com/chandanprogrammer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge" width="30"/></a>
+        </td>
+     </tr>
+   </table>
   
-  <h3>A passionate <strong>Full Stack Web Developer</strong> with strong technical skills, an eye for design, and a commitment to delivering innovative, user‑friendly software solutions.</h3>
+  <h3>Passionate about technology, I’m a MERN Stack Developer from India <br> with strong technical skills and a drive to create impactful solutions.</h3>
 </div>
-<br><br>
+<br>
 
 ---
 
 ### :man_technologist: About Me :
 
-- 👨‍💻 Check out all of my [Projects]()
-
+- 👨‍💻 Check out all of my [Projects](https://unichat-rouge.vercel.app)
 - 📝 I regularly write articles on [Hashnode](https://chandanprogrammer.hashnode.dev/)
-
-- 📫 How to reach me **chandankumar070503@gmail.com**
-
+- 📫 Reach me at: **chandankumar070503@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16msrRZ0ReCa0iWhe8j34xxe8tZ9sEHkb/view)
 
 ---
@@ -36,7 +48,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,tailwind,mongodb,mysql,postgres,express,react,redux,nodejs,nextjs,git,docker,vscode,idea,cloudflare,figma,netlify,postman,stackoverflow,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,mongodb,mysql,postgres,express,react,nodejs,nextjs,git,docker,vscode,idea,cloudflare,figma,netlify,postman,vite,java" />
 </div>
 
 ---
@@ -57,3 +69,8 @@
 </div>
 
 ---
+
+<div align="center">
+  <h4>Come, let’s team up and create something amazing! 🚀</h4>
+  <br><br>
+</div>

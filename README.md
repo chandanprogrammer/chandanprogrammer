@@ -30,13 +30,15 @@
      </tr>
    </table>
   
-  <h3>Passionate about technology, I’m a MERN Stack Developer from India <br> with strong technical skills and a drive to create impactful solutions.</h3>
+  <h4>Passionate MERN Stack Developer from India, building impactful solutions.</h4>
 </div>
 <br>
 
 ---
 
 ### :man_technologist: About Me :
+
+I'm an MCA student and MERN Stack Developer with hands-on experience in building full-stack web applications. Passionate about creating dynamic, scalable, and user-friendly solutions using MongoDB, Express.js, React, and Node.js. I enjoy connecting front-end and back-end seamlessly while solving real-world coding challenges.
 
 - 👨‍💻 Check out all of my [Projects](https://unichat-rouge.vercel.app)
 - 📝 I regularly write articles on [Hashnode](https://chandanprogrammer.hashnode.dev/)
@@ -72,5 +74,5 @@
 
 <div align="center">
   <h4>Come, let’s team up and create something amazing! 🚀</h4>
-  <br><br>
+  <br>
 </div>

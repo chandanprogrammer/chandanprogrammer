@@ -48,7 +48,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,mongodb,mysql,postgres,express,react,nodejs,nextjs,git,docker,vscode,idea,cloudflare,figma,netlify,postman,vite,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,mongodb,postgres,mysql,react,vite,nodejs,git,postman,docker,vscode,idea,netlify,figma,java" />
 </div>
 
 ---
